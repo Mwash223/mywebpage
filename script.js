@@ -1,1 +1,1 @@
-console.log("Welcome Tigers Fan");
+alert("Welcome Tigers Fans")
