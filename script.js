@@ -7,9 +7,9 @@ while (num1 <5){
  
 
  if(num1  < 5){
-    alert('Bye Tigers do not like liars, ' + name);
+    alert('Bye Tigers do not like liars'+ name );
     var num1=prompt('TRY AGAIN!!How much you like the Memphis Tigers Football Team from 1-10');
-}
+ }
 }
 if (num1 ==10){
     alert('Good Answer, ' + name);
@@ -18,4 +18,5 @@ if (num1 ==10){
 tigerRating();
 
  
+
 
